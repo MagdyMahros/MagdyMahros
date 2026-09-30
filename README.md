@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Magdy
 - 💻 Software Engineer experienced in backend with Ruby on Rails
 - 🧑‍💻 Technology Agnostic
-- 💳 Fintech Pro
 
 
 ## 🌐 Socials:
